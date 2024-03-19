@@ -1,6 +1,7 @@
 # KIM JONG HO 🙋‍♂️
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa6nes&count_bg=%23707356&title_bg=%2300727B&icon=mixcloud.svg&icon_color=%23F2BABA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![a6nes's GitHub stats](https://github-readme-stats.vercel.app/api?username=a6nes&theme=gruvbox_light&show_icons=true)
 
 # Skills
